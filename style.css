@@ -1,0 +1,31 @@
+body{
+	background-color: aqua;
+}
+
+#h1{
+	font-family:Cursive;
+	color: blue;
+}
+
+#user_name{
+	width: 600px;
+	background-color : red;
+}
+
+#img{
+	height: 200px;
+}
+
+#login_button{
+	width: 300px;
+}
+
+#room_name{
+	width: 600px;
+	background-color : blue;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
